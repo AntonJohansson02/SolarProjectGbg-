@@ -1,4 +1,4 @@
-Day;Month;Year;SolarHours;AverageTemperatur;Nederbördsmängd;AverageAirPressure;AverageHumidity;EnergyProduction
+Day;Month;Year;SolarHours;AverageTemperatur;Rain;AverageAirPressure;AverageHumidity;EnergyProduction
 1;12;2017;0;1.6875;0;1016.0375;89.25;646
 2;12;2017;0;5.025;4.2;1015.8625;89.83333333;596
 3;12;2017;2.38;6.416666667;0;1009.345833;77.875;2248
